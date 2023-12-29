@@ -1,4 +1,4 @@
-#### Welcome to my GitHub. Let's talk tech!
+#### Welcome to my GitHub. Let's talk tech! 🌐📊📈
 ![Welcome to my GitHub. Let's talk tech!](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZvNjF6eDhqaXJhc3plZzAxOHV4bmxmOGw3bTM4N3l0dWFtdDR2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif)
 
 I'm currently enrolled in an **MBA in Data Science** program at Swiss School of Business and Management ([SSBM](https://www.ssbm.ch/)) in Geneva, Switzerland. I received my **Bachelor of Business Administration** from IAE Lille in northern France. My background is in Electrical Engineering, Business Administration, and Music. 
@@ -6,7 +6,7 @@ I'm currently enrolled in an **MBA in Data Science** program at Swiss School of 
 Skills: Python | SQL | Azure | Analytics | PowerBI
 
 - 🔭 I’m currently working on dashboards, cloud computing, data privacy blogs, and raising two kids. 
-- 🌱 I’m currently learning Java, JavaScript, Julia, Mojo 
+- 🌱 I’m currently learning Java, JavaScript, Julia, Mojo, Blockchain Technology.
 - 💬 Ask me about getting started in protecting online privacy. 
 - 📫 How to reach me: LinkedIn, Email, Signal. 
 

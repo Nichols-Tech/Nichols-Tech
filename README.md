@@ -3,7 +3,7 @@
 
 I am overly passionate about data, numbers, and technology. Currently, I'm studying in an **MBA in Data Science** program at **Swiss School of Business and Management** ([SSBM](https://www.ssbm.ch/)) in **Geneva, Switzerland**. I received my **Bachelor of Business Administration** from **IAE Lille** in northern France. My background is in **Electrical Engineering, Business Administration, and Music**. 
 
-**Skills**: Python | SQL | Azure | Analytics | PowerBI
+**Skills**: Python | SQL | Azure | Analytics | PowerBI | Jupyter Notebooks
 
 - 🔭 I’m currently working on dashboards, cloud computing, data warehouses & pipelines, data privacy blogs, and raising two kids. 
 - 🌱 I’m currently learning Java, Mojo, Blockchain Technology.

@@ -1,5 +1,9 @@
-#### ✌🏽 I'm Joshua. Welcome to my GitHub. Let's talk tech! 🌐📊📈
-![Welcome to my GitHub. Let's talk tech!](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZvNjF6eDhqaXJhc3plZzAxOHV4bmxmOGw3bTM4N3l0dWFtdDR2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif)
+<p align="center"> ✌🏽 I'm Joshua. Welcome to my GitHub. Let's talk tech! 🌐📊📈 
+</p>
+
+<p align="center"> 
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZvNjF6eDhqaXJhc3plZzAxOHV4bmxmOGw3bTM4N3l0dWFtdDR2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" alt="GIF">
+</p>
 
 I am overly passionate about data, numbers, and technology. Currently, I'm studying in an **MBA in Data Science** program at **Swiss School of Business and Management** ([SSBM](https://www.ssbm.ch/)) in **Geneva, Switzerland**. I received my **Bachelor of Business Administration** from **IAE Lille** in northern France. My background is in **Electrical Engineering, Business Administration, and Music**. 
 

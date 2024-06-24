@@ -11,7 +11,7 @@ I was born and raised in the "Music City", Nashville, TN USA and now reside in t
 **Skills**: Python | SQL | Microsoft Azure | PowerBI | Jupyter Notebook
 
 - 🔭 I’m currently working on dashboards, cloud computing, data warehouses, data lakes, pipelines, data privacy blogs, AI, and raising two kids. 
-- 🌱 I’m currently learning Java, Mojo, Blockchain Technology.
+- 🌱 I’m currently learning Java, Scala, Blockchain Technology.
 - 💬 Ask me about investing, Marvel, protecting your online privacy by switching to [Proton](https://go.getproton.me/SHfq). 
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/mrnichols/) or [Instagram](https://www.instagram.com/nichols.tech/).
 - ✔ Check my blogs on [Medium](https://medium.com/@nichols.tech) or browse my [affiliate links](https://linktr.ee/mrnichols).

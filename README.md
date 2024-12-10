@@ -1,17 +1,17 @@
-<p align="center"> ✌🏽 I'm Joshua. Welcome to my GitHub. Let's talk tech! 🌐📊📈 
+<p align="center"> ✌🏽 I'm Joshua (Yehoshi). Welcome to my GitHub. Let's talk tech! 🌐📊📈 
 </p>
 
 <p align="center"> 
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZvNjF6eDhqaXJhc3plZzAxOHV4bmxmOGw3bTM4N3l0dWFtdDR2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" alt="GIF">
 </p>
 
-I am overly passionate about data, numbers, and technology. Currently, I'm studying in an **MBA in Data Science** program at **Swiss School of Business and Management** ([SSBM](https://www.ssbm.ch/)) in **Geneva, Switzerland**. I received my **Bachelor of Business Administration** from ([IAE Lille](https://iaelille.fr/en/home/)) in Lille, France. My background is in **IT, Electrical Engineering, Business Administration, Finance and Music.** 
+I am overly passionate about data, analytics, and technology. Currently, I'm studying in an **MBA in Data Science** program at **Swiss School of Business and Management** ([SSBM](https://www.ssbm.ch/)) in **Geneva, Switzerland**. I received my **Bachelor of Business Administration** from ([IAE Lille](https://iaelille.fr/en/home/)) in Lille, France. My background is in **IT, Electrical Engineering, Business Administration, Finance and Music.** 
 I was born and raised in the "Music City", Nashville, TN USA and now reside in the Alpine region of Switzerland.
 
-**Skills**: Python | SQL | Microsoft Azure | PowerBI | Jupyter Notebook
+**Skills**: Python | Power BI | Jupyter Notebook | Excel | Azure
 
-- 🔭 I’m currently working on dashboards, cloud computing, data warehouses, data lakes, pipelines, advocating for data privacy, AI, and raising two incredible kids. 
-- 🌱 I’m currently learning TensorFlow, PyTorch, Apache Spark, Scala, Blockchain Technology.
+- 🔭 I’m currently working on dashboards, cloud computing, advocating for data privacy, AI, and raising two incredible kids. 
+- 🌱 I’m currently learning TensorFlow, PyTorch, Apache Spark, and Scala.
 - 💬 Ask me about investing, Marvel, protecting your online privacy by switching to [Proton](https://go.getproton.me/SHfq). 
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/mrnichols/) or [Instagram](https://www.instagram.com/nichols.tech/).
 - ✔ Check my blogs on [Medium](https://medium.com/@nichols.tech) or browse my [affiliate links](https://linktr.ee/mrnichols).
